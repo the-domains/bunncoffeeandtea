@@ -1,14 +1,8 @@
-layout_spectrum: 0.4373719
-typography_spectrum: 0.8444353
+layout_spectrum: 0.8748657
+typography_spectrum: 0.4398496
 color:
-  saturation: 0.9724933
-  lightness: 0.2082945
+  saturation: 0.5
   brandStrength: 0.1818203
-  rhythmicContrast: 0.4767922
-  brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+  lightness: 0.4817401
+  rhythmicContrast: 0.4967777
 name: bunncoffeeandtea
